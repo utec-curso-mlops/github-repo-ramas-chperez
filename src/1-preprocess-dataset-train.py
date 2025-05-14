@@ -3,9 +3,14 @@ import pandas as pd
 import sklearn.metrics as metrics
 import os
 
+#Este comentario simula la correcion del bug encontrado en el preprocesamiento de datos
+#Este comentario simula la correcion del bug encontrado en el preprocesamiento de datos
+
 #Esta linea va a simular que estamos trabajando en u optimizar el codigo de preprocesamiento de datos
 #2da linea de comentario
 #terminamos los comentarios
+
+#Comentario del pull request
 
 class preprocess_data:
     _output_path = ""
